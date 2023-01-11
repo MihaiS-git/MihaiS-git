@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MihaiS-git
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C, Linux and QA Automation
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ingsuciumihai@gmail.com
 
